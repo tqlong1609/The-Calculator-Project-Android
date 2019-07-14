@@ -1,4 +1,4 @@
-package com.e.team10.calculator;
+package com.group10.calculator;
 
 import org.junit.Test;
 
